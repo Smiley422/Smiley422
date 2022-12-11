@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Smiley422&layout=compact)](https://github.com/Smiley422/Smiley422)
 
 
-![Smiley422's github stats](https://github-readme-stats.vercel.app/api?username=Smiley422&show_icons=true&hide=stars,issues&include_all_commits=true&count_private=true)
+![Smiley422's github stats](https://github-readme-stats.vercel.app/api?username=Smiley422&show_icons=true&hide=issues&include_all_commits=true&count_private=true)
